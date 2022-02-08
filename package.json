@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@esri/arcgis-rest-auth": "^3.4.1",
+    "@esri/arcgis-rest-feature-layer": "^3.4.1",
+    "@esri/arcgis-rest-request": "^3.4.1",
+    "cross-fetch": "^3.1.4",
+    "dotenv": "^10.0.0",
+    "isomorphic-form-data": "^2.0.0",
+    "node-fetch": "^3.0.0",
+    "nodemailer": "^6.6.5"
+  },
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  }
+}
